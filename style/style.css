@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0);
+    width: 100%;
+}
+
+.navcontainer ul li a {
+    text-decoration: none;
+    color: white;
+    margin: 15px 15px 15px 15px;
+}
+
+.navcontainer ul li {
+    list-style: none;
+    float: right;
+    margin: 15px;
+}
+
+.navcontainer img {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 6px 5px 0px 23px;
+}
+
+.navcontainer input {
+    float: left;
+    width: 30%;
+    height: 35px;
+    margin: 15px;
+    border: auto;
+    border-radius: 15px;
+    padding: 0 0 0 3px;
+}
+
+.clear {
+    clear: both;
+}
+
+body {
+    background-color: black;
+}
+
+section {
+    width: 100%;
+}
+
+.card1 {
+    background-image: url(../images/360_F_69424905_vxTpRGAcVKni9157VpKAOG6MpTX30etl.jpg);
+    float: left;
+    width: 20%;
+    height: 350px;
+    border-radius: 10%;
+    background-size: cover;
+    margin: 30px 30px 30px 30px;
+}
+
+.card2 {
+    background-image: url(../images/5.jpg);
+    float: left;
+    width: 20%;
+    height: 350px;
+    border-radius: 10%;
+    background-size: cover;
+    margin: 30px 30px 30px 30px;
+}
+
+.card3 {
+    background-image: url(../images/6.jpg);
+    float: left;
+    width: 20%;
+    height: 350px;
+    border-radius: 10%;
+    background-size: cover;
+    margin: 30px 30px 30px 30px;
+}
+
+.card4 {
+    background-image: url(../images/photo-1579783483458-83d02161294e.avif);
+    float: left;
+    width: 20%;
+    height: 350px;
+    border-radius: 10%;
+    background-size: cover;
+    margin: 30px 30px 30px 30px;
+}
+
+.card1 img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 10px 0px 0px 10px;
+}
+
+.card2 img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 10px 0px 0px 10px;
+}
+
+.card3 img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 10px 0px 0px 10px;
+
+}
+
+.card4 img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    margin: 10px 0px 0px 10px;
+}
+
+footer{
+    background-color: gray;
+    width: 90%;
+    margin: 0 0 0 5%;
+    border-radius: 15px;
+}
+
+.footercontainer img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px 0px 0px 10px;
+    float: left;
+}
+
+.footercontainer input {
+    float: left;
+    width: 30%;
+    height: 35px;
+    margin: 15px;
+    border: auto;
+    border-radius: 15px;
+    padding: 0 0 0 3px;
+    float: left;
+}
